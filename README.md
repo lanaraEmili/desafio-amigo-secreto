@@ -1,4 +1,6 @@
 # desafio-amigo-secreto
+> :construction: Projeto em construção :construction:
+
 Amigo Secreto
 
 Neste desafio, você desenvolverá uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
