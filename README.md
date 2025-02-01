@@ -16,3 +16,9 @@ Validar entrada:' Se o campo de texto estiver vazio, o programa exibirá um aler
 Visualizar a lista:' Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 
 Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+
+
+
+
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
