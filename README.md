@@ -1,26 +1,35 @@
-# desafio-amigo-secreto
-> :construction: Projeto em construção :construction:
+# Desafio: Amigo Secreto
 
-Amigo Secreto
+## 📖 Sobre o Projeto
 
-Neste desafio, você desenvolverá uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
+Descrição: Uma aplicação web simples, composta por arquivos HTML, CSS e JavaScript com intuito de realizar um sorteio de amigos para um jogo de amigo secreto, o sorteio é feito de forma divertida e aleatória. O projeto foi desenvolvido como um desafio do curso do programa ONE (Oracle Next Education) em parceria com a Alura.
 
-O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
+Funcionalidades:
 
-Os nomes inseridos serão exibidos em uma lista visível na página, e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
+- Adicionar nomes: 
+    - Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
 
-# Funcionalidades:
+- Validar entrada: 
+    - Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
+    - Se o usuário tentar inserir um nome que já esteja presente na lista de amigos, exibirá um prompt questionando se ele realmente deseja adicionar um nome repetido.
 
-Adicionar nomes:' Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
+- Visualizar a lista: 
+    - Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 
-Validar entrada:' Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
+- Sorteio aleatório: 
+    - Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
-Visualizar a lista:' Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
+## 🚀 Tecnologias
 
-Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+  <div style="flex-basis: 48%;">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+
+</p>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
 
 
-
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
