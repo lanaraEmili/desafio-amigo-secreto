@@ -1,4 +1,7 @@
 # Desafio: Amigo Secreto
+</p>
+   <img src=""/>
+</p>
 
 ## 📖 Sobre o Projeto
 
