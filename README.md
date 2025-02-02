@@ -1,6 +1,6 @@
 # Desafio: Amigo Secreto
 </p>
-   <img src=""/>
+   <img src="![Image](https://github.com/user-attachments/assets/560cf5c5-887b-4b1f-9857-84ce15031096)"/>
 </p>
 
 ## 📖 Sobre o Projeto
