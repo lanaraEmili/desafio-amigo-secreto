@@ -11,7 +11,6 @@ function adicionarAmigo() {
     }
 
     amigos.push(nome);
-    nome.value = '';
     limparCampo();
     criarLista();
 }
@@ -39,6 +38,8 @@ function sortearAmigo() {
     } else {
         let IndiceAleatorio = parseInt(Math.floor(Math.random() * amigos.length));
         let nomeSorteado = amigos[IndiceAleatorio];
+
+        //Exibe o nome Sorteado
         let amigoSecreto = document.getElementById('resultado');
         amigoSecreto.innerHTML = nomeSorteado;
     }
