@@ -9,7 +9,13 @@ function adicionarAmigo() {
         alert('Por favor, insira um nome.');
         return;
     }
-
+    
+     if (amigos.includes(nome)) {
+        let confirmar = confirm(`O nome "${nome}" já está na lista. Você deseja realmente adicioná-lo novamente?`);
+        if (!confirmar) {
+            return; // Se o usuário não confirmar, não adiciona o nome
+        }
+    }
     amigos.push(nome);
     limparCampo();
     criarLista();
